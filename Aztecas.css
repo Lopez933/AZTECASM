@@ -1,0 +1,29 @@
+*{
+    padding:0px;
+    margin:0px;
+    background-color: rgb(2,0,36);
+    background-color: #00FFFF;
+}
+#header{
+        margin:auto;
+        width:900px;
+}
+ul,ol{
+    list-style:none;
+}
+.nav  li a{
+    background-color:#A9A9A9;
+    color: rgba(116, 65, 108, 0.99);    
+    text-decoration:none;
+    padding:10px 30px;
+    display:block;
+}
+.nav> li{
+    float:left;
+}
+.nav li a:hover{
+    background-color:#696666;
+}
+p{
+    text-align: justify;
+}
